@@ -1,0 +1,151 @@
+{
+  "banner": [
+    {
+      "title": "Your Standard For Reliability & Speed",
+      "desc": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns.",
+      "image": "/images/homeBanner.png"
+    }
+  ],
+  "partner": [
+    {
+      "id": "0",
+      "image": "/images/partner/1.png",
+      "label": "partner"
+    },
+    {
+      "id": "1",
+      "image": "/images/partner/2.png",
+      "label": "partner"
+    },
+    {
+      "id": "2",
+      "image": "/images/partner/3.png",
+      "label": "partner"
+    },
+    {
+      "id": "3",
+      "image": "/images/partner/4.png",
+      "label": "partner"
+    },
+    {
+      "id": "4",
+      "image": "/images/partner/5.png",
+      "label": "partner"
+    }
+  ],
+  "collection": [
+    {
+      "id": "0",
+      "image": "/images/collection/0.png",
+      "title": "Power Tools",
+      "link": "/"
+    },
+    {
+      "id": "1",
+      "image": "/images/collection/1.png",
+      "title": "Thermal Tool",
+      "link": "/"
+    },
+    {
+      "id": "2",
+      "image": "/images/collection/2.png",
+      "title": "Rivet & Rivet Nut Tools",
+      "link": "/"
+    },
+    {
+      "id": "3",
+      "image": "/images/collection/3.png",
+      "title": "Rivets",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "image": "/images/collection/4.png",
+      "title": "Fasteners",
+      "link": "/"
+    }
+  ],
+  "whyUs": [
+    {
+      "id": "0",
+      "image": "/images/whyUs/awesome.jpg",
+      "title": "We Service <br/>What We Sell",
+      "desc": "<span>New Content Required Here</span> As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat"
+    },
+    {
+      "id": "1",
+      "image": "/images/whyUs/lighting.jpg",
+      "title": "We Fix Your <br/>Tools Fast",
+      "desc": "<span>New Content Required Here</span> As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat"
+    },
+    {
+      "id": "2",
+      "image": "/images/whyUs/plus.jpg",
+      "title": "Huge Range <br/>Of Rivets",
+      "desc": "<span>New Content Required Here</span> As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "0",
+      "image": "/images/testimonial/rating.png",
+      "desc": "We recently purchased a <span>Steinel Heat Gun</span> on-line with PayPal. We just wanted to say “thank you” for the prompt service, competitive pricing and gift of lollies on our first purchase! I have distributed the catalogues supplied to various staff members in the interests of future business.",
+      "title": "JOHN <span>BLOGGS</span>"
+    },
+    {
+      "id": "1",
+      "image": "/images/testimonial/rating.png",
+      "desc": "We recently purchased a <span>Steinel Heat Gun</span> on-line with PayPal. We just wanted to say “thank you” for the prompt service, competitive pricing and gift of lollies on our first purchase! I have distributed the catalogues supplied to various staff members in the interests of future business.",
+      "title": "JOHN <span>BLOGGS</span>"
+    }
+  ],
+  "faq": [
+    {
+      "id": "0",
+      "title": "HOW COSTLY IS TOOLFIX?",
+      "content": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns."
+    },
+    {
+      "id": "1",
+      "title": "WHAT IS THE WARRANTY OF THE PRODUCTS?",
+      "content": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns."
+    },
+    {
+      "id": "2",
+      "title": "HOW DURABLE ARE THE PRODUCTS?",
+      "content": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns."
+    },
+    {
+      "id": "3",
+      "title": "HOW LONG DOES THE SHIPPING TAKE?",
+      "content": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns."
+    },
+    {
+      "id": "4",
+      "title": "HOW DO I SEND A PRODUCT FOR SERVICING?",
+      "content": "As a general industrial supplier, we can source almost anything you may require, however our specialty is in the supply of blind rivets, rivet tools and thermo tools including heat guns and hot melt glue guns."
+    }
+  ],
+  "payment": [
+    {
+      "id": "0",
+      "image": "/images/payment/0.png",
+      "label": "payment"
+    },
+    {
+      "id": "1",
+      "image": "/images/payment/1.png",
+      "label": "payment"
+    },
+    {
+      "id": "2",
+      "image": "/images/payment/2.png",
+      "label": "payment"
+    },
+    {
+      "id": "3",
+      "image": "/images/payment/3.png",
+      "label": "payment"
+    }
+  ]
+}

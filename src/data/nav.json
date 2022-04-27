@@ -1,0 +1,77 @@
+{
+  "primaryMenu": [
+    {
+      "id": "0",
+      "label": "Products",
+      "link": "/products",
+      "subMenu": [
+        {
+          "id": "0",
+          "label": "Product One",
+          "link": "/default-product-link",
+          "subMenu": [
+            {
+              "id": "0",
+              "label": "Product One - 1",
+              "link": "/default-product-link"
+            },
+            {
+              "id": "0",
+              "label": "Product One - 2",
+              "link": "/default-product-link"
+            },
+            {
+              "id": "0",
+              "label": "Product One - 3",
+              "link": "/default-product-link"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "label": "Product Two",
+          "link": "/Product Two",
+          "subMenu": [
+            {
+              "id": "0",
+              "label": "Product Two - 1",
+              "link": "/Product Two"
+            },
+            {
+              "id": "0",
+              "label": "Product Two - 2",
+              "link": "/Product Two"
+            },
+            {
+              "id": "0",
+              "label": "Product Two - 3",
+              "link": "/Product Two"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "label": "Projects",
+      "link": "/projects",
+      "subMenu": [
+        {
+          "id": "0",
+          "label": "Project One - 1",
+          "link": "/default-Project -link"
+        },
+        {
+          "id": "0",
+          "label": "Project One - 2",
+          "link": "/default-Project -link"
+        },
+        {
+          "id": "0",
+          "label": "Project One - 3",
+          "link": "/default-Project -link"
+        }
+      ]
+    }
+  ]
+}

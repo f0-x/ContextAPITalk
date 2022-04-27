@@ -1,0 +1,16 @@
+export const HOME = '/';
+export const MYPROFILE = '/my-profile';
+export const MYADDRESS = '/my-address';
+export const MYORDERS = '/my-orders';
+export const MYINVOICE = '/my-invoice';
+export const REGISTER = '/register';
+export const TERMSCONDITION = '/terms-condition';
+export const RIVETONE = '/rivet-selector-one';
+export const RIVETTWO = '/rivet-selector-two';
+export const RIVETTHREE = '/rivet-selector-three';
+export const RIVETFOUR = '/rivet-selector-four';
+export const RIVETFIVE = '/rivet-selector-five';
+export const SOFONE = '/sof-one';
+export const SOFTWO = '/sof-two';
+export const SOFTHREE = '/sof-three';
+export const SOFCOMPLETE = '/sof-complete';
